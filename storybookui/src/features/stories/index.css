@@ -1,0 +1,9 @@
+.ant-card {
+  margin: 5px;
+}
+.ant-skeleton {
+  width: 100%;
+}
+.ant-skeleton-image {
+  width: 100%!important;
+}
